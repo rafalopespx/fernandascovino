@@ -1,4 +1,4 @@
-## Hi there 👋 
+### Hi there 👋 
 
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=fernandascovino&color=blue&style=flat" target="_blank">
@@ -15,8 +15,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandascovino&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fernandascovino&theme=default"/></td>
+        <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandascovino&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api?username=fernandascovino&theme=default"/></td>
     </tr>   
   </table>
 </center>
