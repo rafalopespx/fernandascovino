@@ -42,3 +42,7 @@
 <a href="https://www.linkedin.com/in/fernanda-scovino"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/fernanda-scovino)  
 
 <a href="mailto:fscovinom@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:fscovinom@gmail.com)  
+
+---
+
+*Thanks to [@leticiadasilva](http://github.com/leticiadasilva) for the ideias on her profile :heart:*
