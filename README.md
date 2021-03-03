@@ -3,12 +3,12 @@
 ---
 
 **🔭 Currently working on** 
-- Data for social good
+- Geospatial data
 - Statistical modelling
 - Web applications
 
 **🌱 Currently learning about** 
-- Devops
+- Climate change models
 - Product design
 - Open data projects
 
