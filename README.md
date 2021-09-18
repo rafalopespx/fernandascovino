@@ -2,8 +2,8 @@
 
 Yes, I still need to update my Github Page. 
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.com/invite/huKWpsVYx4t">
+  <img align="left" alt="Base dos Dados Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/fernandascovino">
   <img align="left" alt="Fernanda Scovino | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
