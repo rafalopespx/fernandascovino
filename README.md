@@ -1,31 +1,22 @@
-### Hi there ✌️
+## Hi there ✌️
 
----
+Yes, I still need to update my Github Page. 
 
-**🔭 Currently working on** 
-- Geospatial data
-- Statistical modelling
-- Web applications
-
-**🌱 Currently learning about** 
-- Climate change models
-- Product design
-- Open data projects
-
----  
-
-### Feel free to reach me with ideas 📩 
-
-<a href="https://twitter.com/fernandascovino"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/fernandascovino)   
-
-<a href="https://www.linkedin.com/in/fernanda-scovino"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/fernanda-scovino)  
-
-<a href="mailto:fscovinom@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:fscovinom@gmail.com)  
-
----
-
-*Check out the awesome [@leticiadasilva](http://github.com/leticiadasilva) profile readme to inspire 🤍*
-
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/fernandascovino">
+  <img align="left" alt="Fernanda Scovino | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/fernanda-scovino">
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <a href="https://komarev.com/ghpvc/?username=fernandascovino&color=blue&style=flat" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=fernandascovino&color=blue&style=flat" alt="">
 </a>
+
+<br />
+<br />
+
+- 💼 reach me by [email](mailto:fscovinom@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
