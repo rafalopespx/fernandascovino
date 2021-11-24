@@ -16,7 +16,7 @@
 
 <br />
 
-Spreading open-source & civic technology. Currently working to improve public transport monitoring systems at [Rio de Janeiro city](http://github.com/RJ-SMTR).
+Spreading open-source & civic technology. Currently working to improve public transport data systems at [Rio de Janeiro city](http://github.com/RJ-SMTR).
 
 Also:
 - 💡 [Who & what inspires me](https://www.youtube.com/playlist?list=PLLGNkbxabPb6oXuFUFac7PvrK3iSXe62Z)
