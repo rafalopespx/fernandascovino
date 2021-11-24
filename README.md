@@ -16,9 +16,10 @@
 
 <br />
 
-I'm a community driven person working to improve public transport monitoring systems at [Rio de Janeiro city](http://github.com/RJ-SMTR).
+Spreading open-source & civic technology. Currently working to improve public transport monitoring systems at [Rio de Janeiro city](http://github.com/RJ-SMTR).
 
 Also:
+- 💡 [Who & what inspires me](https://www.youtube.com/playlist?list=PLLGNkbxabPb6oXuFUFac7PvrK3iSXe62Z)
 - 👟 Learning how to run a marathone
 - 👾 Collaborating on open source projects - such as [Base dos Dados!](http://github.com/basedosdados)
 - 💬 Feel free to ask me about anything, I love learning new stuff
